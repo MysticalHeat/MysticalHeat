@@ -1,4 +1,4 @@
-# Hi, I'm Ilya
+# Hi, I'm Ilia
 
 Backend Engineer focused on Node.js, TypeScript, microservices, and API design.  
 Currently studying in South Korea and building practical backend systems with attention to reliability, testing, and delivery.

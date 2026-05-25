@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MysticalHeat&theme=transparent&hide_border=true" alt="GitHub streak"/>
 </p>
 
 ## Current Focus
@@ -69,4 +69,3 @@
 - Designing maintainable backend systems
 - Improving API quality and test coverage
 - Simplifying multi-service delivery workflows
-- Building a strong international backend portfolio

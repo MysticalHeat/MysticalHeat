@@ -1,60 +1,74 @@
-# Hi, I'm Ilya Elmanov
+<h1 align="center">
+  Hi there, I'm Ilya
+  <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Hi"/>
+</h1>
 
-Backend Engineer specializing in Node.js, TypeScript, APIs, and microservice-based systems.  
-I build reliable backend services, improve delivery workflows, and focus on practical engineering that scales.
+<h3 align="center">Backend Engineer • Node.js • TypeScript • Microservices • DevOps-minded</h3>
 
-## About
+<p align="center">
+  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?color=0E7490&center=true&vCenter=true&width=720&lines=Building+reliable+backend+systems;Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+RabbitMQ;Microservices%2C+testing%2C+CI%2FCD%2C+delivery"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
-Backend-focused software engineer with strong interest in distributed systems, API architecture, testing, and DevOps.  
-Currently based in South Korea and open to international remote opportunities, backend contracts, and product engineering roles.
-
-## Focus Areas
-
-- Backend development with Node.js and TypeScript
-- API design and service-to-service communication
-- Microservices and scalable backend architecture
-- CI/CD pipelines and delivery automation
-- Integration testing and production-minded engineering
-
-## Tech Stack
-
-**Languages**  
-TypeScript, JavaScript
-
-**Backend**  
-Node.js, REST APIs, microservices
-
-**Infrastructure & DevOps**  
-Docker, GitHub Actions, CI/CD, Linux
-
-**Data & Messaging**  
-PostgreSQL, RabbitMQ
-
-**Testing**  
-Supertest, integration testing, Testcontainers
-
-## What I Care About
-
-- Building maintainable backend systems instead of overengineered demos
-- Making deployment and delivery simpler for real teams
-- Writing code that is practical, testable, and easy to support
-- Improving developer workflows and engineering efficiency
-
-## Selected Direction
-
-Most of my work is centered around backend systems that need to be reliable in practice: internal services, APIs, microservice workflows, testing strategy, and deployment pipelines.  
-I am especially interested in roles where backend engineering intersects with architecture, infrastructure, and delivery.
-
-## Current Goal
-
-Growing as an international backend engineer and building a portfolio that is clear, technical, and useful for real hiring conversations.
-
-## Contact
-
-- LinkedIn: [linkedin.com/in/iliaelmanov](https://www.linkedin.com/in/iliaelmanov/)
-- GitHub: [Add your GitHub username](https://github.com/)
-- Email: [Add your email]
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://t.me/YOUR_TELEGRAM">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 ---
 
-> Backend engineering with a focus on reliability, delivery, and systems that work in the real world.
+## About Me
+
+- Backend engineer focused on Node.js, TypeScript, APIs, and microservice-based systems.
+- Interested in scalable architecture, integration testing, CI/CD, and practical DevOps.
+- Open to remote backend roles, product teams, and international collaboration.
+
+## Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Testcontainers-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Testcontainers"/>
+</p>
+
+## Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| **Project One** | Short description of the backend problem it solves. | Node.js, TypeScript, PostgreSQL |
+| **Project Two** | Short description of a microservice or API system. | Node.js, Docker, RabbitMQ |
+| **Project Three** | Short description of testing, delivery, or automation work. | GitHub Actions, Testcontainers |
+
+## GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=transparent&hide_border=true" alt="GitHub streak"/>
+</p>
+
+## Current Focus
+
+- Designing maintainable backend systems
+- Improving API quality and test coverage
+- Simplifying multi-service delivery workflows
+- Building a strong international backend portfolio

@@ -47,11 +47,11 @@
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| **Project One** | Short description of the backend problem it solves. | Node.js, TypeScript, PostgreSQL |
-| **Project Two** | Short description of a microservice or API system. | Node.js, Docker, RabbitMQ |
-| **Project Three** | Short description of testing, delivery, or automation work. | GitHub Actions, Testcontainers |
+- **[logovisor](https://github.com/MysticalHeat/logovisor)** — observability platform for collecting, streaming, searching, and analyzing logs, with agent monitoring and alerting.  
+  Highlights backend system design, ingestion workflows, storage separation, and operational tooling.
+
+- **[dnsresolver](https://github.com/MysticalHeat/dnsresolver)** — DNS resolver project exploring protocol behavior, request flow, and systems-level backend design.  
+  Highlights networking fundamentals, low-level request handling, and architecture thinking.
 
 ## GitHub Stats
 

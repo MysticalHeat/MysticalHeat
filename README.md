@@ -1,12 +1,12 @@
 <h1 align="center">
-  Hi there, I'm Ilya
+  Hi there, I'm Ilia
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Hi"/>
 </h1>
 
 <h3 align="center">Backend Engineer • Node.js • TypeScript • Microservices • DevOps-minded</h3>
 
 <p align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/MysticalHeat">
     <img
       src="https://readme-typing-svg.herokuapp.com?color=0E7490&center=true&vCenter=true&width=720&lines=Building+reliable+backend+systems;Node.js+%7C+TypeScript+%7C+PostgreSQL+%7C+RabbitMQ;Microservices%2C+testing%2C+CI%2FCD%2C+delivery"
       alt="Typing SVG"
@@ -15,13 +15,13 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/iliaelmanov">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:ilyaelmanov@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://t.me/YOUR_TELEGRAM">
+  <a href="https://t.me/@N0ML1">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </p>

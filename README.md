@@ -56,8 +56,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MysticalHeat&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MysticalHeat&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
+  <img height="170" src="https://git-stats.nomli-com.ru/api?username=MysticalHeat&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats"/>
+  <img height="170" src="https://git-stats.nomli-com.ru/api/top-langs/?username=MysticalHeat&layout=compact&theme=transparent&hide_border=true" alt="Top languages"/>
 </p>
 
 <p align="center">

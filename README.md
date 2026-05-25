@@ -1,51 +1,60 @@
-# Hi, I'm Ilia
+# Hi, I'm Ilya Elmanov
 
-Backend Engineer focused on Node.js, TypeScript, microservices, and API design.  
-Currently studying in South Korea and building practical backend systems with attention to reliability, testing, and delivery.
+Backend Engineer specializing in Node.js, TypeScript, APIs, and microservice-based systems.  
+I build reliable backend services, improve delivery workflows, and focus on practical engineering that scales.
 
-## About Me
+## About
 
-- Backend-focused software engineer with strong interest in scalable systems and clean architecture.
-- Building services, APIs, and internal tools with a practical, product-oriented mindset.
-- Interested in microservices, CI/CD, cloud deployment, and developer productivity.
-- Open to international remote opportunities and long-term backend collaboration.
+Backend-focused software engineer with strong interest in distributed systems, API architecture, testing, and DevOps.  
+Currently based in South Korea and open to international remote opportunities, backend contracts, and product engineering roles.
+
+## Focus Areas
+
+- Backend development with Node.js and TypeScript
+- API design and service-to-service communication
+- Microservices and scalable backend architecture
+- CI/CD pipelines and delivery automation
+- Integration testing and production-minded engineering
 
 ## Tech Stack
 
-- **Languages:** TypeScript, JavaScript
-- **Backend:** Node.js, REST API design, microservices
-- **Data & Messaging:** PostgreSQL, RabbitMQ
-- **DevOps:** Docker, GitHub Actions, CI/CD
-- **Testing:** Supertest, integration testing, Testcontainers
-- **Tools:** Git, Linux, VS Code, terminal-first workflow
+**Languages**  
+TypeScript, JavaScript
 
-## What I Work On
+**Backend**  
+Node.js, REST APIs, microservices
 
-- Microservice-based backend applications
-- API architecture and service communication
-- Deployment pipelines for staging and production
-- Integration testing and reliable delivery workflows
-- Internal tools and automation for developer teams
+**Infrastructure & DevOps**  
+Docker, GitHub Actions, CI/CD, Linux
 
-## Current Focus
+**Data & Messaging**  
+PostgreSQL, RabbitMQ
 
-- Designing maintainable Node.js backends
-- Improving API quality and test coverage
-- Simplifying deployment for multi-service systems
-- Building a strong international backend portfolio
+**Testing**  
+Supertest, integration testing, Testcontainers
 
-## Also Interested In
+## What I Care About
 
-- Cloud cost optimization
-- DevOps workflows and developer tooling
-- Video editing and automation workflows
+- Building maintainable backend systems instead of overengineered demos
+- Making deployment and delivery simpler for real teams
+- Writing code that is practical, testable, and easy to support
+- Improving developer workflows and engineering efficiency
+
+## Selected Direction
+
+Most of my work is centered around backend systems that need to be reliable in practice: internal services, APIs, microservice workflows, testing strategy, and deployment pipelines.  
+I am especially interested in roles where backend engineering intersects with architecture, infrastructure, and delivery.
+
+## Current Goal
+
+Growing as an international backend engineer and building a portfolio that is clear, technical, and useful for real hiring conversations.
 
 ## Contact
 
-- LinkedIn: [Add your LinkedIn URL]
-- GitHub: [Add your GitHub URL]
+- LinkedIn: [linkedin.com/in/iliaelmanov](https://www.linkedin.com/in/iliaelmanov/)
+- GitHub: [Add your GitHub username](https://github.com/)
 - Email: [Add your email]
 
 ---
 
-> Building backend systems that are practical, maintainable, and ready for real-world use.
+> Backend engineering with a focus on reliability, delivery, and systems that work in the real world.
